@@ -2,7 +2,7 @@ Project Name ===> Bmi
 
 Program Name ===> Calculate The Bmi Of The Human Body
 
-Program Description ===> This Program Takes the User's Height And Weight And Calculates The User's BMI
+Program Description ===> This Program Takes The User's Height And Weight And Calculates The User's BMI
 
 Programming Language ===> Python
 
