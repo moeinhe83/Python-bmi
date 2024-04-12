@@ -20,4 +20,4 @@ Required Packages For Python ===> pyfiglet / termcolor2 / os / datetime
 
 pyfiglet ===> To install => pip install pyfiglet
 
-termcolor2 ==> To install => pip install termcolor2
+termcolor2 ===> To install => pip install termcolor2
