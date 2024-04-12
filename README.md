@@ -16,7 +16,7 @@ Bmi_windows.py ===> For Windows
 
 For Run ===> python Bmi_windows.py
 
-Required packages for Python ===> pyfiglet / termcolor2 / os / datetime
+Required packages For Python ===> pyfiglet / termcolor2 / os / datetime
 
 pyfiglet ==> To install => pip install pyfiglet
 
